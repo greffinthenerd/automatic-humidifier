@@ -9,7 +9,7 @@ this compares to the reading of the indoor humidity sensor and turns your humidi
 that is it in a nutshell.  
 
 I have put into this app as many failsafes as I can think of without bloating it too much
-so that if a sensor drops out it will turn off the humidifier at the next poll
+so that if a sensor drops out it will turn off the humidifier at the next poll. 
 Feel free to recode this to be a better app.  Again my coding sucks.
 
 I have used this for the last two months as a beta test and it has worked well for me.  One warning, this is a cloud app.
