@@ -15,3 +15,6 @@ Feel free to recode this to be a better app.  Again my coding sucks.
 I have used this for the last two months as a beta test and it has worked well for me.  One warning, this is a cloud app.
 If you lose internet connection AFTER the humidifier starts it will continue to run until either the net comes back
 or you turn it off which could result in very high humidity levels during that time.  
+
+This is more or less something I did for myself, I am not likely to maintain the app or make any notable changes at this point unless it 
+stops doing what I want it to do.  I felt the app might benefit others so I made it more user friendly and adjustable and put it out there for others to build on or use.  
