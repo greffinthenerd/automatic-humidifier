@@ -74,11 +74,13 @@ def page2() {
         
 def installed() {
 	subscribe(humidityInput, "humidity", humidityActivate)
+	subscribe(switch2, "switch.on", scheduleHumidity)
 }
 
 def updated() {
 	unsubscribe()
 	subscribe(humidityInput, "humidity", humidityActivate)
+	subscribe(switch2, "switch.on", scheduleHumidity)
 }
      
 def scheduleHumidity(evt) {
